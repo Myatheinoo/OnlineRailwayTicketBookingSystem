@@ -1,0 +1,15 @@
+D:\RailwayTicketAPI\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\RailwayTicketAPI\Domain\bin\Debug\net8.0\Domain.dll
+D:\RailwayTicketAPI\Domain\bin\Debug\net8.0\Domain.pdb
+D:\RailwayTicketAPI\Domain\bin\Debug\net8.0\Database.dll
+D:\RailwayTicketAPI\Domain\bin\Debug\net8.0\Database.pdb
+D:\RailwayTicketAPI\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\RailwayTicketAPI\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\RailwayTicketAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\RailwayTicketAPI\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\RailwayTicketAPI\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\RailwayTicketAPI\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+D:\RailwayTicketAPI\Domain\obj\Debug\net8.0\Domain.dll
+D:\RailwayTicketAPI\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\RailwayTicketAPI\Domain\obj\Debug\net8.0\Domain.pdb
+D:\RailwayTicketAPI\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RailwayTicketAPI", "RailwayTicketAPI\RailwayTicketAPI.csproj", "{460707F2-1C24-49A2-A44C-86BD17AD25C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{FFD5FA1E-3668-4375-BBA4-5D8040037E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{07A33CA2-2297-4EE3-B079-E3068FEE3843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{460707F2-1C24-49A2-A44C-86BD17AD25C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460707F2-1C24-49A2-A44C-86BD17AD25C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460707F2-1C24-49A2-A44C-86BD17AD25C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460707F2-1C24-49A2-A44C-86BD17AD25C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD5FA1E-3668-4375-BBA4-5D8040037E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD5FA1E-3668-4375-BBA4-5D8040037E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD5FA1E-3668-4375-BBA4-5D8040037E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD5FA1E-3668-4375-BBA4-5D8040037E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A33CA2-2297-4EE3-B079-E3068FEE3843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A33CA2-2297-4EE3-B079-E3068FEE3843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A33CA2-2297-4EE3-B079-E3068FEE3843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A33CA2-2297-4EE3-B079-E3068FEE3843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {939AADE2-19F1-499F-87B6-7F799CEB4C43}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RailwayTicketAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{460707F2-1C24-49A2-A44C-86BD17AD25C5}|RailwayTicketAPI\\RailwayTicketAPI.csproj|d:\\railwayticketapi\\railwayticketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{460707F2-1C24-49A2-A44C-86BD17AD25C5}|RailwayTicketAPI\\RailwayTicketAPI.csproj|solutionrelative:railwayticketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A33CA2-2297-4EE3-B079-E3068FEE3843}|Domain\\Domain.csproj|d:\\railwayticketapi\\domain\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A33CA2-2297-4EE3-B079-E3068FEE3843}|Domain\\Domain.csproj|solutionrelative:domain\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A33CA2-2297-4EE3-B079-E3068FEE3843}|Domain\\Domain.csproj|d:\\railwayticketapi\\domain\\iservices\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A33CA2-2297-4EE3-B079-E3068FEE3843}|Domain\\Domain.csproj|solutionrelative:domain\\iservices\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460707F2-1C24-49A2-A44C-86BD17AD25C5}|RailwayTicketAPI\\RailwayTicketAPI.csproj|d:\\railwayticketapi\\railwayticketapi\\controllers\\jwttokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460707F2-1C24-49A2-A44C-86BD17AD25C5}|RailwayTicketAPI\\RailwayTicketAPI.csproj|solutionrelative:railwayticketapi\\controllers\\jwttokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A33CA2-2297-4EE3-B079-E3068FEE3843}|Domain\\Domain.csproj|d:\\railwayticketapi\\domain\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A33CA2-2297-4EE3-B079-E3068FEE3843}|Domain\\Domain.csproj|solutionrelative:domain\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460707F2-1C24-49A2-A44C-86BD17AD25C5}|RailwayTicketAPI\\RailwayTicketAPI.csproj|d:\\railwayticketapi\\railwayticketapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460707F2-1C24-49A2-A44C-86BD17AD25C5}|RailwayTicketAPI\\RailwayTicketAPI.csproj|solutionrelative:railwayticketapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A33CA2-2297-4EE3-B079-E3068FEE3843}|Domain\\Domain.csproj|d:\\railwayticketapi\\domain\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A33CA2-2297-4EE3-B079-E3068FEE3843}|Domain\\Domain.csproj|solutionrelative:domain\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A33CA2-2297-4EE3-B079-E3068FEE3843}|Domain\\Domain.csproj|d:\\railwayticketapi\\domain\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A33CA2-2297-4EE3-B079-E3068FEE3843}|Domain\\Domain.csproj|solutionrelative:domain\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD5FA1E-3668-4375-BBA4-5D8040037E79}|Database\\Database.csproj|d:\\railwayticketapi\\database\\dto\\jwttokendto\\jwttokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD5FA1E-3668-4375-BBA4-5D8040037E79}|Database\\Database.csproj|solutionrelative:database\\dto\\jwttokendto\\jwttokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "D:\\RailwayTicketAPI\\Domain\\IServices\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "Domain\\IServices\\IJwtTokenService.cs",
+              "ToolTip": "D:\\RailwayTicketAPI\\Domain\\IServices\\IJwtTokenService.cs",
+              "RelativeToolTip": "Domain\\IServices\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:22:29.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\RailwayTicketAPI\\RailwayTicketAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RailwayTicketAPI\\appsettings.json",
+              "ToolTip": "D:\\RailwayTicketAPI\\RailwayTicketAPI\\appsettings.json*",
+              "RelativeToolTip": "RailwayTicketAPI\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T08:34:56.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\RailwayTicketAPI\\Domain\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\UserService.cs",
+              "ToolTip": "D:\\RailwayTicketAPI\\Domain\\Services\\UserService.cs",
+              "RelativeToolTip": "Domain\\Services\\UserService.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAwwMcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T05:27:37.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "D:\\RailwayTicketAPI\\Domain\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\JwtTokenService.cs",
+              "ToolTip": "D:\\RailwayTicketAPI\\Domain\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "Domain\\Services\\JwtTokenService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAIA6wGEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:13:35.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtTokenController.cs",
+              "DocumentMoniker": "D:\\RailwayTicketAPI\\RailwayTicketAPI\\Controllers\\JwtTokenController.cs",
+              "RelativeDocumentMoniker": "RailwayTicketAPI\\Controllers\\JwtTokenController.cs",
+              "ToolTip": "D:\\RailwayTicketAPI\\RailwayTicketAPI\\Controllers\\JwtTokenController.cs",
+              "RelativeToolTip": "RailwayTicketAPI\\Controllers\\JwtTokenController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwB4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:30:27.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\RailwayTicketAPI\\Domain\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "Domain\\IServices\\IUserService.cs",
+              "ToolTip": "D:\\RailwayTicketAPI\\Domain\\IServices\\IUserService.cs",
+              "RelativeToolTip": "Domain\\IServices\\IUserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:34:50.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\RailwayTicketAPI\\RailwayTicketAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RailwayTicketAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\RailwayTicketAPI\\RailwayTicketAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RailwayTicketAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwFEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:35:07.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\RailwayTicketAPI\\Domain\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Domain\\Mappings\\MappingProfile.cs",
+              "ToolTip": "D:\\RailwayTicketAPI\\Domain\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Domain\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:06:03.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtTokenDTO.cs",
+              "DocumentMoniker": "D:\\RailwayTicketAPI\\Database\\DTO\\JwtTokenDTO\\JwtTokenDTO.cs",
+              "RelativeDocumentMoniker": "Database\\DTO\\JwtTokenDTO\\JwtTokenDTO.cs",
+              "ToolTip": "D:\\RailwayTicketAPI\\Database\\DTO\\JwtTokenDTO\\JwtTokenDTO.cs",
+              "RelativeToolTip": "Database\\DTO\\JwtTokenDTO\\JwtTokenDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T03:17:29.027Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

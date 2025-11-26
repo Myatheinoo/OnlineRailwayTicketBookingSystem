@@ -1,0 +1,11 @@
+D:\RailwayTicketAPI\Database\bin\Debug\net8.0\DataAccess.deps.json
+D:\RailwayTicketAPI\Database\bin\Debug\net8.0\DataAccess.dll
+D:\RailwayTicketAPI\Database\bin\Debug\net8.0\DataAccess.pdb
+D:\RailwayTicketAPI\Database\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\RailwayTicketAPI\Database\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\RailwayTicketAPI\Database\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\RailwayTicketAPI\Database\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\RailwayTicketAPI\Database\obj\Debug\net8.0\DataAccess.dll
+D:\RailwayTicketAPI\Database\obj\Debug\net8.0\refint\DataAccess.dll
+D:\RailwayTicketAPI\Database\obj\Debug\net8.0\DataAccess.pdb
+D:\RailwayTicketAPI\Database\obj\Debug\net8.0\ref\DataAccess.dll
