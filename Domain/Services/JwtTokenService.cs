@@ -1,9 +1,7 @@
 ﻿using AutoMapper;
-using Azure.Core;
 using Database.DTO;
 using Database.DTO.JwtTokenDTO;
 using Database.DTO.Shared;
-using Database.DTO.UserDTO;
 using Database.Models;
 using Domain.IServices;
 using Microsoft.EntityFrameworkCore;
@@ -12,7 +10,6 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Domain.Services
 {
